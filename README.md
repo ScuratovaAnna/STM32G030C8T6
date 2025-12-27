@@ -10,7 +10,7 @@
 
 ### Board
 ---  
-![alt-текст]([https://github.com/PivnevNikolay/Segger_Embedded_Studio_for_STM32/blob/main/03_STM32G030C8T6/photo/00_STM32G030C8T6.jpg "STM32G030C8T6")  
+![alt-текст](https://github.com/ScuratovaAnna/STM32G030C8T6/blob/main/Image/00_STM32G030C8T6.jpg "STM32G030C8T6")  
 
 ### Development Environment
 ---
